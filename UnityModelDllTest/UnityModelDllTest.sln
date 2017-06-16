@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{E3780C62-0BA5-F22A-0436-A8702B7EAF2B}") = "UnityModelDllTest", "Assembly-CSharp.csproj", "{05FCFDBE-C319-4CED-8C6E-D9C8BE8AF19C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05FCFDBE-C319-4CED-8C6E-D9C8BE8AF19C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05FCFDBE-C319-4CED-8C6E-D9C8BE8AF19C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05FCFDBE-C319-4CED-8C6E-D9C8BE8AF19C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05FCFDBE-C319-4CED-8C6E-D9C8BE8AF19C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
